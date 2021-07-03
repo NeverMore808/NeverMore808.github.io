@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## About Me
+I’m Wang Xinhao and I’m now a third-year undergraduate student majoring intelligence science at School of Electronic Engineering and Computer Science in Peking University, China.
 
-You can use the [editor on GitHub](https://github.com/NeverMore808/NeverMore808.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Currently, I’m working as an intern student at [STRUCT Team](www.wict.pku.edu.cn/struct/), Peking University, supervised by [Prof. Jiaying Liu](https://www.wict.pku.edu.cn/struct/people/liujiaying.html).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I’m interested in computer vision and style transfer.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
